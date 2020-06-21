@@ -1,3 +1,6 @@
+# pokedex
+Pokedex application with the original 151 Kanto Pokemon made in React.js. Will support search queries by name and type and will soon include more detailed information and a cleaner UI.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
