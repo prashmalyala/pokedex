@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import CardList from './CardList';
+import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
-import { pokemon } from './pokemon';
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <CardList pokemon={pokemon} />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
